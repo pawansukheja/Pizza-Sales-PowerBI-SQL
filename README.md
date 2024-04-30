@@ -17,7 +17,7 @@ Our meticulous data analysis techniques, coupled with the robust capabilities of
 Software Used- PowerBI and MYSQL
 
 
-![Pizza_sales_Analysis](https://github.com/pawansukheja/Pizza-Sales-PowerBI-SQL/assets/163865690/0232a36a-efd6-4d5c-8f10-9072e7b51914)
+![Pizza Sales Analysis](https://github.com/pawansukheja/Pizza-Sales-PowerBI-SQL/assets/163865690/674e6014-0a34-48b3-949b-db7cce29efee)
 
-![Pizza_sales_TOP_Bottom](https://github.com/pawansukheja/Pizza-Sales-PowerBI-SQL/assets/163865690/5a826f12-0195-4278-9192-72712e01a8a1)
+![Pizza Sales Top and Bottom](https://github.com/pawansukheja/Pizza-Sales-PowerBI-SQL/assets/163865690/d5a8338a-c463-4bcd-a0dc-e3a6eb7a8950)
 
